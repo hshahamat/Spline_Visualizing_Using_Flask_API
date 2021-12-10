@@ -2,8 +2,8 @@
 A spline visualization replaces the straight line of a line visualization with a curve.
 
 ### requirements
-Flask==1.1.2
-numpy==1.18.5
+Flask==1.1.2 \
+numpy==1.18.5 \
 opencv_python==4.5.4.58
 Pillow==8.4.0
 requests==2.24.0
