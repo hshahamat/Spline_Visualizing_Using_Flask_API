@@ -1,5 +1,5 @@
 # Spline Visualizing Using Flask API
-A spline visualization replaces the straight line of a line visualization with a curve.
+The Spline chart type is a Line graph that plots a fitted curve through each data point in a series. A spline visualization replaces the straight line of a line visualization with a curve.
 
 ### requirements
 Flask==1.1.2 \
