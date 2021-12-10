@@ -13,7 +13,7 @@ scipy==1.5.0
 python flask_app.py
 
 
-### Then in another terminal, we run this command to send an image and its corresponding spline to the API, and then receive and show the final image:
+### Then in another terminal, we can run this command to send an image and its corresponding spline to the API, and then receive and show the final image:
 python test_flask_app.py
 
 
