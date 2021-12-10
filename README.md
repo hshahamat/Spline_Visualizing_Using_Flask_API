@@ -7,7 +7,7 @@ numpy==1.18.5 \
 opencv_python==4.5.4.58 \
 Pillow==8.4.0 \
 requests==2.24.0 \
-scipy==1.5.0 \
+scipy==1.5.0 
 
 ### First of all we need to run the following command in a separate terminal to start flask API:
 python flask_app.py
